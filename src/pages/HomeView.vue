@@ -12,7 +12,7 @@
 
         <!-- HERO -->
         <section class="hero">
-        <h1>Bienvenid@ a Andyna</h1>
+        <h1>Bienvenid@ a Andyna prueba de despliegue</h1>
         <p>
             Descubre moda circular en un solo lugar. Encuentra, conecta y da nueva vida a prendas únicas.
         </p>
